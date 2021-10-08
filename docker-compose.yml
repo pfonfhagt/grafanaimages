@@ -10,3 +10,4 @@ services:
       - GF_AUTH_ANONYMOUS_ENABLED=true
       - org_name = uctal
       - org_role = Viewer
+      
